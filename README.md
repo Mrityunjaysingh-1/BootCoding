@@ -11,6 +11,6 @@
 </p>
 
 <p align-"left">
-  On 07/02/24 -> StudentManagementSystem Task Completed -> Tech used - Java, Maven -> Dependencies used - Lombok, OpenCSV, Jackson
+  On 07/02/24 -> Transform CSV file to JSON file Task Completed -> Tech used - Java, Maven -> Dependencies used - Lombok, OpenCSV, Jackson
 </p>
   
